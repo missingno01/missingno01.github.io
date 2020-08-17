@@ -1,6 +1,6 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Ray Altenberg
+description: Software Engineer
+site_title: 'Ray Altenberg'
 
 # Build settings
 markdown: kramdown
@@ -8,11 +8,11 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+blog_url: https://www.rayaltenberg.com
+email: rayaltenberg@gmail.com
+keybase_username: missingno01
+twitter_username: missingno01
+reddit_username: missingno01
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
