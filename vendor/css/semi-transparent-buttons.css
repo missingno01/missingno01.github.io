@@ -5,8 +5,17 @@
   padding: 8px;
   max-width: 160px;
   min-width: 120px;
-  background: transparent; /* fallback color for old browsers */
-  border-radius: 2px;
+
+
+  /*background: transparent; /* fallback color for old browsers */
+  /*border-radius: 2px;*/
+
+  border-radius: 26px;
+  background: linear-gradient(145deg, #414141, #373737);
+  box-shadow:  7px 7px 19px #2d2d2d, 
+             -7px -7px 19px #4d4d4d;
+
+
   color: #fff;
   text-align: center;
   text-decoration: none;
